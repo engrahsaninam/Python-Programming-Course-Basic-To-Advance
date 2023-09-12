@@ -1,4 +1,3 @@
-# Python Training Course (Basic To Advance)
 # Python Programming Course Repository
 
 Welcome to the Python Programming Course repository! This repository contains all the code files and resources you'll need for the interactive Python programming course conducted by Engr Ahsan Inam. This course covers a wide range of topics and is designed to help you become proficient in Python programming.
